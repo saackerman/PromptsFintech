@@ -1,0 +1,22 @@
+# OS and Editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test results and logs
+test-results/
+evaluation-results/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal notes (users might add their own)
+notes.md
+personal-notes/
+my-results/
