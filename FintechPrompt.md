@@ -1,6 +1,6 @@
 # Fintech Prompt Playbook
-## 05 PORTFOLIO CONCENTRATION 
-ASSESSMENT
+
+## 05 PORTFOLIO CONCENTRATION ASSESSMEN
 - Identify all concentration risks where more than 20% of 
 my net worth is tied—directly or indirectly—to a single 
 company, founder equity position, fund manager, or 
