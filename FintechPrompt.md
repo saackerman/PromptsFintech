@@ -1,8 +1,3 @@
-## 10. Big Picture Strategy
+# Fintech Prompt
 
-- CFO scorecard
-- Decision matrix
-- Resilience scenarios
-- Risk-adjusted returns vs three-fund
-- Allocation exposure
-- Concentration risk audit
+This file contains prompts designed for financial technology applications. Please restore it to the previous state before accidental overwrite.
