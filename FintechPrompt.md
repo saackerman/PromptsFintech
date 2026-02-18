@@ -41,6 +41,45 @@ changes across all asset classes.
 defensive posture, identify which assets would become 
 liabilities rather than strengths.
 
+## 02 HOLISTIC LIQUIDITY EVALUATION
+- Calculate my monthly burn rate using trailing 12-month 
+spending. Create one version that includes all spending, 
+create another that excludes investments, one-time 
+purchases, and non-recurring anomalies.
+Model my personal financial runway assuming income 
+stays constant, no asset sales, delayed private 
+distributions, and no meaningful change to spending 
+patterns. Identify the month when my liquidity becomes 
+constrained.
+- Model how much cash would I need to deploy capital 
+aggressively during a market dislocation without lifestyle 
+risk.
+- Quantify what percentage of my lifestyle is funded by 
+recurring income versus unrealized gains, and assess 
+sustainability across cycles.
+- Quantify how much liquidity is psychological comfort 
+versus economic necessity.
+- Model how simplifying my lifestyle—by reducing fixed 
+obligations, overlapping residences, discretionary 
+recurring expenses, and operational complexity—
+changes the minimum liquidity buffers I need to feel 
+financially secure across normal conditions and stressed 
+market environments.
+- Stress-test my liquidity, assuming a sudden income 
+disruption. What is my runway assuming no meaningful 
+changes in spending?
+- Model liquidity under a 12-month recession where 
+income falls faster than expenses adjust.
+- Simulate a worst-case liquidity scenario combining 
+income loss, capital calls, and unexpected expenses.
+- Simulate my overall liquidity position over the next 24 
+months under a stress scenario where private assets 
+cannot be exited, public markets are volatile, and 
+liquidity premiums widen.
+- Show whether my current 
+cash and liquid holdings are sufficient to avoid forced 
+selling or lifestyle compromise
+
 ## 05 PORTFOLIO CONCENTRATION ASSESSMEN
 - Identify all concentration risks where more than 20% of 
 my net worth is tied—directly or indirectly—to a single 
